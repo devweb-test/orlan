@@ -1,0 +1,2439 @@
+{
+  "date": "2026-10-21",
+  "pagesChecked": 4,
+  "network": "HTTP(S) blocked",
+  "appStoreBadgesHaveNoBlackBackground": true,
+  "socialIconVisibleHeightsPx": [
+    28,
+    28,
+    28,
+    28
+  ],
+  "socialLinksHaveUniformHitAreasPx": 34,
+  "paymentAndPhoneButtonsHeightPx": 46,
+  "payButtonTextColor": "#202439",
+  "blueAccent": "#00a0e3",
+  "paymentCallbackAndDirectorModals": [
+    {
+      "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "target": "buy",
+      "opensAndCloses": true
+    },
+    {
+      "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "target": "callback",
+      "opensAndCloses": true
+    },
+    {
+      "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "target": "reviews",
+      "opensAndCloses": true
+    },
+    {
+      "page": "blog/index.html",
+      "target": "buy",
+      "opensAndCloses": true
+    },
+    {
+      "page": "blog/index.html",
+      "target": "callback",
+      "opensAndCloses": true
+    },
+    {
+      "page": "blog/index.html",
+      "target": "reviews",
+      "opensAndCloses": true
+    },
+    {
+      "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "target": "buy",
+      "opensAndCloses": true
+    },
+    {
+      "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "target": "callback",
+      "opensAndCloses": true
+    },
+    {
+      "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "target": "reviews",
+      "opensAndCloses": true
+    },
+    {
+      "page": "index.html",
+      "target": "buy",
+      "opensAndCloses": true
+    },
+    {
+      "page": "index.html",
+      "target": "callback",
+      "opensAndCloses": true
+    },
+    {
+      "page": "index.html",
+      "target": "reviews",
+      "opensAndCloses": true
+    }
+  ],
+  "phoneLinkPreserved": true,
+  "keyboardFocusVisible": true,
+  "hoverDurationMs": 380,
+  "reducedMotionRespected": true,
+  "touchHoverDisabled": true,
+  "responsive": [
+    {
+      "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "width": 320,
+      "footer": 320,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "width": 390,
+      "footer": 390,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "width": 650,
+      "footer": 650,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "width": 768,
+      "footer": 768,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "width": 1024,
+      "footer": 1024,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "width": 1440,
+      "footer": 1440,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "width": 1920,
+      "footer": 1920,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/index.html",
+      "width": 320,
+      "footer": 320,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/index.html",
+      "width": 390,
+      "footer": 390,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/index.html",
+      "width": 650,
+      "footer": 650,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/index.html",
+      "width": 768,
+      "footer": 768,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/index.html",
+      "width": 1024,
+      "footer": 1024,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/index.html",
+      "width": 1440,
+      "footer": 1440,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/index.html",
+      "width": 1920,
+      "footer": 1920,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "width": 320,
+      "footer": 320,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "width": 390,
+      "footer": 390,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "width": 650,
+      "footer": 650,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "width": 768,
+      "footer": 768,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "width": 1024,
+      "footer": 1024,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "width": 1440,
+      "footer": 1440,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "width": 1920,
+      "footer": 1920,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "index.html",
+      "width": 320,
+      "footer": 320,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "index.html",
+      "width": 390,
+      "footer": 390,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "index.html",
+      "width": 650,
+      "footer": 650,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "index.html",
+      "width": 768,
+      "footer": 768,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "index.html",
+      "width": 1024,
+      "footer": 1024,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "index.html",
+      "width": 1440,
+      "footer": 1440,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    },
+    {
+      "page": "index.html",
+      "width": 1920,
+      "footer": 1920,
+      "buttonSizes": [
+        {
+          "width": 135,
+          "height": 46
+        },
+        {
+          "width": 135,
+          "height": 46
+        }
+      ],
+      "payColor": "rgb(32, 36, 57)",
+      "phoneColor": "rgb(0, 160, 227)",
+      "storeBlends": [
+        "screen",
+        "screen",
+        "screen",
+        "screen"
+      ],
+      "socialTargets": [
+        34,
+        34,
+        34,
+        34
+      ],
+      "contactLabels": [
+        14,
+        14
+      ],
+      "oldContactIcons": [
+        "none",
+        "none"
+      ]
+    }
+  ],
+  "javascriptErrors": [],
+  "refinements": {
+    "date": "2026-10-21",
+    "buttonBorderRadiusPx": 5,
+    "phoneBorderColor": "#00a0e39c",
+    "contactBottomBordersRemoved": true,
+    "storeAndSocialHoverBackgroundsRemoved": true,
+    "rutubeSource": "assets/Icon_RUTUBE_dark_color_circle.svg",
+    "rutubeMatchesProvidedFile": true,
+    "listedFooterLinksWithoutUnderlines": true,
+    "hoverCheckedOnAllFourPages": true,
+    "responsive": [
+      {
+        "page": "/home/v_chernyshov/orlan/offline-page/blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+        "width": 320,
+        "footer": 320,
+        "buttons": [
+          {
+            "radius": "5px",
+            "border": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "radius": "5px",
+            "border": "rgba(0, 160, 227, 0.61)"
+          }
+        ],
+        "contactBorders": [
+          "0px",
+          "0px"
+        ],
+        "decorations": [
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Нашли опечатку? Ctrl + Enter",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Политика конфиденциальности",
+            "decoration": "none"
+          },
+          {
+            "text": "Сведения об образовательной организации",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "/home/v_chernyshov/orlan/offline-page/blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+        "width": 390,
+        "footer": 390,
+        "buttons": [
+          {
+            "radius": "5px",
+            "border": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "radius": "5px",
+            "border": "rgba(0, 160, 227, 0.61)"
+          }
+        ],
+        "contactBorders": [
+          "0px",
+          "0px"
+        ],
+        "decorations": [
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Нашли опечатку? Ctrl + Enter",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Политика конфиденциальности",
+            "decoration": "none"
+          },
+          {
+            "text": "Сведения об образовательной организации",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "/home/v_chernyshov/orlan/offline-page/blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+        "width": 1440,
+        "footer": 1440,
+        "buttons": [
+          {
+            "radius": "5px",
+            "border": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "radius": "5px",
+            "border": "rgba(0, 160, 227, 0.61)"
+          }
+        ],
+        "contactBorders": [
+          "0px",
+          "0px"
+        ],
+        "decorations": [
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Нашли опечатку? Ctrl + Enter",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Политика конфиденциальности",
+            "decoration": "none"
+          },
+          {
+            "text": "Сведения об образовательной организации",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "/home/v_chernyshov/orlan/offline-page/blog/index.html",
+        "width": 320,
+        "footer": 320,
+        "buttons": [
+          {
+            "radius": "5px",
+            "border": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "radius": "5px",
+            "border": "rgba(0, 160, 227, 0.61)"
+          }
+        ],
+        "contactBorders": [
+          "0px",
+          "0px"
+        ],
+        "decorations": [
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Нашли опечатку? Ctrl + Enter",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Политика конфиденциальности",
+            "decoration": "none"
+          },
+          {
+            "text": "Сведения об образовательной организации",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "/home/v_chernyshov/orlan/offline-page/blog/index.html",
+        "width": 390,
+        "footer": 390,
+        "buttons": [
+          {
+            "radius": "5px",
+            "border": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "radius": "5px",
+            "border": "rgba(0, 160, 227, 0.61)"
+          }
+        ],
+        "contactBorders": [
+          "0px",
+          "0px"
+        ],
+        "decorations": [
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Нашли опечатку? Ctrl + Enter",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Политика конфиденциальности",
+            "decoration": "none"
+          },
+          {
+            "text": "Сведения об образовательной организации",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "/home/v_chernyshov/orlan/offline-page/blog/index.html",
+        "width": 1440,
+        "footer": 1440,
+        "buttons": [
+          {
+            "radius": "5px",
+            "border": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "radius": "5px",
+            "border": "rgba(0, 160, 227, 0.61)"
+          }
+        ],
+        "contactBorders": [
+          "0px",
+          "0px"
+        ],
+        "decorations": [
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Нашли опечатку? Ctrl + Enter",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Политика конфиденциальности",
+            "decoration": "none"
+          },
+          {
+            "text": "Сведения об образовательной организации",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "/home/v_chernyshov/orlan/offline-page/blog/znaki-prioriteta-na-dorogakh/index.html",
+        "width": 320,
+        "footer": 320,
+        "buttons": [
+          {
+            "radius": "5px",
+            "border": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "radius": "5px",
+            "border": "rgba(0, 160, 227, 0.61)"
+          }
+        ],
+        "contactBorders": [
+          "0px",
+          "0px"
+        ],
+        "decorations": [
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Нашли опечатку? Ctrl + Enter",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Политика конфиденциальности",
+            "decoration": "none"
+          },
+          {
+            "text": "Сведения об образовательной организации",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "/home/v_chernyshov/orlan/offline-page/blog/znaki-prioriteta-na-dorogakh/index.html",
+        "width": 390,
+        "footer": 390,
+        "buttons": [
+          {
+            "radius": "5px",
+            "border": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "radius": "5px",
+            "border": "rgba(0, 160, 227, 0.61)"
+          }
+        ],
+        "contactBorders": [
+          "0px",
+          "0px"
+        ],
+        "decorations": [
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Нашли опечатку? Ctrl + Enter",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Политика конфиденциальности",
+            "decoration": "none"
+          },
+          {
+            "text": "Сведения об образовательной организации",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "/home/v_chernyshov/orlan/offline-page/blog/znaki-prioriteta-na-dorogakh/index.html",
+        "width": 1440,
+        "footer": 1440,
+        "buttons": [
+          {
+            "radius": "5px",
+            "border": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "radius": "5px",
+            "border": "rgba(0, 160, 227, 0.61)"
+          }
+        ],
+        "contactBorders": [
+          "0px",
+          "0px"
+        ],
+        "decorations": [
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Нашли опечатку? Ctrl + Enter",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Политика конфиденциальности",
+            "decoration": "none"
+          },
+          {
+            "text": "Сведения об образовательной организации",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "/home/v_chernyshov/orlan/offline-page/index.html",
+        "width": 320,
+        "footer": 320,
+        "buttons": [
+          {
+            "radius": "5px",
+            "border": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "radius": "5px",
+            "border": "rgba(0, 160, 227, 0.61)"
+          }
+        ],
+        "contactBorders": [
+          "0px",
+          "0px"
+        ],
+        "decorations": [
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Нашли опечатку? Ctrl + Enter",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Политика конфиденциальности",
+            "decoration": "none"
+          },
+          {
+            "text": "Сведения об образовательной организации",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "/home/v_chernyshov/orlan/offline-page/index.html",
+        "width": 390,
+        "footer": 390,
+        "buttons": [
+          {
+            "radius": "5px",
+            "border": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "radius": "5px",
+            "border": "rgba(0, 160, 227, 0.61)"
+          }
+        ],
+        "contactBorders": [
+          "0px",
+          "0px"
+        ],
+        "decorations": [
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Нашли опечатку? Ctrl + Enter",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Политика конфиденциальности",
+            "decoration": "none"
+          },
+          {
+            "text": "Сведения об образовательной организации",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "/home/v_chernyshov/orlan/offline-page/index.html",
+        "width": 1440,
+        "footer": 1440,
+        "buttons": [
+          {
+            "radius": "5px",
+            "border": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "radius": "5px",
+            "border": "rgba(0, 160, 227, 0.61)"
+          }
+        ],
+        "contactBorders": [
+          "0px",
+          "0px"
+        ],
+        "decorations": [
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "text": "Нашли опечатку? Ctrl + Enter",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Версия для слабовидящих",
+            "decoration": "none"
+          },
+          {
+            "text": "Политика конфиденциальности",
+            "decoration": "none"
+          },
+          {
+            "text": "Сведения об образовательной организации",
+            "decoration": "none"
+          }
+        ]
+      }
+    ],
+    "javascriptErrors": []
+  },
+  "iconUpdates": {
+    "date": "2026-10-21",
+    "rutubeSource": "assets/Icon_RUTUBE_dark_color_circle.svg",
+    "rutubeMatchesProvidedFile": true,
+    "licenseSource": "assets/footer-license.svg",
+    "licenseIconPx": 20,
+    "licenseLinkAndNoUnderlinePreserved": true,
+    "responsive": [
+      {
+        "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+        "width": 320,
+        "footer": 320,
+        "rutube": [
+          {
+            "src": "../../assets/Icon_RUTUBE_dark_color_circle.svg",
+            "width": 28,
+            "height": 28
+          }
+        ],
+        "payments": [
+          {
+            "src": "../../assets/footer-payment-mir.svg",
+            "alt": "Мир",
+            "width": 51.171875,
+            "height": 14,
+            "center": 12771.21875
+          },
+          {
+            "src": "../../assets/footer-payment-sberpay.svg",
+            "alt": "SberPay",
+            "width": 39.78125,
+            "height": 14,
+            "center": 12771.21875
+          },
+          {
+            "src": "../../assets/footer-payment-t-pay.svg",
+            "alt": "T-Pay",
+            "width": 47.265625,
+            "height": 14,
+            "center": 12771.21875
+          }
+        ],
+        "paymentRowWidth": 158.21875,
+        "logoWidth": 160,
+        "licenses": [
+          {
+            "src": "../../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": true,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "src": "../../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": false,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+        "width": 390,
+        "footer": 390,
+        "rutube": [
+          {
+            "src": "../../assets/Icon_RUTUBE_dark_color_circle.svg",
+            "width": 28,
+            "height": 28
+          }
+        ],
+        "payments": [
+          {
+            "src": "../../assets/footer-payment-mir.svg",
+            "alt": "Мир",
+            "width": 51.171875,
+            "height": 14,
+            "center": 11085.390625
+          },
+          {
+            "src": "../../assets/footer-payment-sberpay.svg",
+            "alt": "SberPay",
+            "width": 39.78125,
+            "height": 14,
+            "center": 11085.390625
+          },
+          {
+            "src": "../../assets/footer-payment-t-pay.svg",
+            "alt": "T-Pay",
+            "width": 47.265625,
+            "height": 14,
+            "center": 11085.390625
+          }
+        ],
+        "paymentRowWidth": 158.21875,
+        "logoWidth": 160,
+        "licenses": [
+          {
+            "src": "../../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": true,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "src": "../../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": false,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+        "width": 1440,
+        "footer": 1440,
+        "rutube": [
+          {
+            "src": "../../assets/Icon_RUTUBE_dark_color_circle.svg",
+            "width": 28,
+            "height": 28
+          }
+        ],
+        "payments": [
+          {
+            "src": "../../assets/footer-payment-mir.svg",
+            "alt": "Мир",
+            "width": 51.171875,
+            "height": 14,
+            "center": 9236.546875
+          },
+          {
+            "src": "../../assets/footer-payment-sberpay.svg",
+            "alt": "SberPay",
+            "width": 39.78125,
+            "height": 14,
+            "center": 9236.546875
+          },
+          {
+            "src": "../../assets/footer-payment-t-pay.svg",
+            "alt": "T-Pay",
+            "width": 47.265625,
+            "height": 14,
+            "center": 9236.546875
+          }
+        ],
+        "paymentRowWidth": 158.21875,
+        "logoWidth": 160,
+        "licenses": [
+          {
+            "src": "../../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": false,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "src": "../../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": true,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "blog/index.html",
+        "width": 320,
+        "footer": 320,
+        "rutube": [
+          {
+            "src": "../assets/Icon_RUTUBE_dark_color_circle.svg",
+            "width": 28,
+            "height": 28
+          }
+        ],
+        "payments": [
+          {
+            "src": "../assets/footer-payment-mir.svg",
+            "alt": "Мир",
+            "width": 51.171875,
+            "height": 14,
+            "center": 11588.015625
+          },
+          {
+            "src": "../assets/footer-payment-sberpay.svg",
+            "alt": "SberPay",
+            "width": 39.78125,
+            "height": 14,
+            "center": 11588.015625
+          },
+          {
+            "src": "../assets/footer-payment-t-pay.svg",
+            "alt": "T-Pay",
+            "width": 47.265625,
+            "height": 14,
+            "center": 11588.015625
+          }
+        ],
+        "paymentRowWidth": 158.21875,
+        "logoWidth": 160,
+        "licenses": [
+          {
+            "src": "../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": true,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "src": "../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": false,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "blog/index.html",
+        "width": 390,
+        "footer": 390,
+        "rutube": [
+          {
+            "src": "../assets/Icon_RUTUBE_dark_color_circle.svg",
+            "width": 28,
+            "height": 28
+          }
+        ],
+        "payments": [
+          {
+            "src": "../assets/footer-payment-mir.svg",
+            "alt": "Мир",
+            "width": 51.171875,
+            "height": 14,
+            "center": 11116.140625
+          },
+          {
+            "src": "../assets/footer-payment-sberpay.svg",
+            "alt": "SberPay",
+            "width": 39.78125,
+            "height": 14,
+            "center": 11116.140625
+          },
+          {
+            "src": "../assets/footer-payment-t-pay.svg",
+            "alt": "T-Pay",
+            "width": 47.265625,
+            "height": 14,
+            "center": 11116.140625
+          }
+        ],
+        "paymentRowWidth": 158.21875,
+        "logoWidth": 160,
+        "licenses": [
+          {
+            "src": "../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": true,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "src": "../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": false,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "blog/index.html",
+        "width": 1440,
+        "footer": 1440,
+        "rutube": [
+          {
+            "src": "../assets/Icon_RUTUBE_dark_color_circle.svg",
+            "width": 28,
+            "height": 28
+          }
+        ],
+        "payments": [
+          {
+            "src": "../assets/footer-payment-mir.svg",
+            "alt": "Мир",
+            "width": 51.171875,
+            "height": 14,
+            "center": 813.609375
+          },
+          {
+            "src": "../assets/footer-payment-sberpay.svg",
+            "alt": "SberPay",
+            "width": 39.78125,
+            "height": 14,
+            "center": 813.609375
+          },
+          {
+            "src": "../assets/footer-payment-t-pay.svg",
+            "alt": "T-Pay",
+            "width": 47.265625,
+            "height": 14,
+            "center": 813.609375
+          }
+        ],
+        "paymentRowWidth": 158.21875,
+        "logoWidth": 160,
+        "licenses": [
+          {
+            "src": "../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": false,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "src": "../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": true,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+        "width": 320,
+        "footer": 320,
+        "rutube": [
+          {
+            "src": "../../assets/Icon_RUTUBE_dark_color_circle.svg",
+            "width": 28,
+            "height": 28
+          }
+        ],
+        "payments": [
+          {
+            "src": "../../assets/footer-payment-mir.svg",
+            "alt": "Мир",
+            "width": 51.171875,
+            "height": 14,
+            "center": 16848.171875
+          },
+          {
+            "src": "../../assets/footer-payment-sberpay.svg",
+            "alt": "SberPay",
+            "width": 39.78125,
+            "height": 14,
+            "center": 16848.171875
+          },
+          {
+            "src": "../../assets/footer-payment-t-pay.svg",
+            "alt": "T-Pay",
+            "width": 47.265625,
+            "height": 14,
+            "center": 16848.171875
+          }
+        ],
+        "paymentRowWidth": 158.21875,
+        "logoWidth": 160,
+        "licenses": [
+          {
+            "src": "../../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": true,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "src": "../../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": false,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+        "width": 390,
+        "footer": 390,
+        "rutube": [
+          {
+            "src": "../../assets/Icon_RUTUBE_dark_color_circle.svg",
+            "width": 28,
+            "height": 28
+          }
+        ],
+        "payments": [
+          {
+            "src": "../../assets/footer-payment-mir.svg",
+            "alt": "Мир",
+            "width": 51.171875,
+            "height": 14,
+            "center": 14856.140625
+          },
+          {
+            "src": "../../assets/footer-payment-sberpay.svg",
+            "alt": "SberPay",
+            "width": 39.78125,
+            "height": 14,
+            "center": 14856.140625
+          },
+          {
+            "src": "../../assets/footer-payment-t-pay.svg",
+            "alt": "T-Pay",
+            "width": 47.265625,
+            "height": 14,
+            "center": 14856.140625
+          }
+        ],
+        "paymentRowWidth": 158.21875,
+        "logoWidth": 160,
+        "licenses": [
+          {
+            "src": "../../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": true,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "src": "../../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": false,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+        "width": 1440,
+        "footer": 1440,
+        "rutube": [
+          {
+            "src": "../../assets/Icon_RUTUBE_dark_color_circle.svg",
+            "width": 28,
+            "height": 28
+          }
+        ],
+        "payments": [
+          {
+            "src": "../../assets/footer-payment-mir.svg",
+            "alt": "Мир",
+            "width": 51.171875,
+            "height": 14,
+            "center": 12043.375
+          },
+          {
+            "src": "../../assets/footer-payment-sberpay.svg",
+            "alt": "SberPay",
+            "width": 39.78125,
+            "height": 14,
+            "center": 12043.375
+          },
+          {
+            "src": "../../assets/footer-payment-t-pay.svg",
+            "alt": "T-Pay",
+            "width": 47.265625,
+            "height": 14,
+            "center": 12043.375
+          }
+        ],
+        "paymentRowWidth": 158.21875,
+        "logoWidth": 160,
+        "licenses": [
+          {
+            "src": "../../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": false,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "src": "../../assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": true,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "index.html",
+        "width": 320,
+        "footer": 320,
+        "rutube": [
+          {
+            "src": "assets/Icon_RUTUBE_dark_color_circle.svg",
+            "width": 28,
+            "height": 28
+          }
+        ],
+        "payments": [
+          {
+            "src": "assets/footer-payment-mir.svg",
+            "alt": "Мир",
+            "width": 51.171875,
+            "height": 14,
+            "center": 18058.21875
+          },
+          {
+            "src": "assets/footer-payment-sberpay.svg",
+            "alt": "SberPay",
+            "width": 39.78125,
+            "height": 14,
+            "center": 18058.21875
+          },
+          {
+            "src": "assets/footer-payment-t-pay.svg",
+            "alt": "T-Pay",
+            "width": 47.265625,
+            "height": 14,
+            "center": 18058.21875
+          }
+        ],
+        "paymentRowWidth": 158.21875,
+        "logoWidth": 175,
+        "licenses": [
+          {
+            "src": "assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": true,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "src": "assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": false,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "index.html",
+        "width": 390,
+        "footer": 390,
+        "rutube": [
+          {
+            "src": "assets/Icon_RUTUBE_dark_color_circle.svg",
+            "width": 28,
+            "height": 28
+          }
+        ],
+        "payments": [
+          {
+            "src": "assets/footer-payment-mir.svg",
+            "alt": "Мир",
+            "width": 51.171875,
+            "height": 14,
+            "center": 17579.34375
+          },
+          {
+            "src": "assets/footer-payment-sberpay.svg",
+            "alt": "SberPay",
+            "width": 39.78125,
+            "height": 14,
+            "center": 17579.34375
+          },
+          {
+            "src": "assets/footer-payment-t-pay.svg",
+            "alt": "T-Pay",
+            "width": 47.265625,
+            "height": 14,
+            "center": 17579.34375
+          }
+        ],
+        "paymentRowWidth": 158.21875,
+        "logoWidth": 175,
+        "licenses": [
+          {
+            "src": "assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": true,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "src": "assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": false,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          }
+        ]
+      },
+      {
+        "page": "index.html",
+        "width": 1440,
+        "footer": 1440,
+        "rutube": [
+          {
+            "src": "assets/Icon_RUTUBE_dark_color_circle.svg",
+            "width": 28,
+            "height": 28
+          }
+        ],
+        "payments": [
+          {
+            "src": "assets/footer-payment-mir.svg",
+            "alt": "Мир",
+            "width": 51.171875,
+            "height": 14,
+            "center": 23552.421875
+          },
+          {
+            "src": "assets/footer-payment-sberpay.svg",
+            "alt": "SberPay",
+            "width": 39.78125,
+            "height": 14,
+            "center": 23552.421875
+          },
+          {
+            "src": "assets/footer-payment-t-pay.svg",
+            "alt": "T-Pay",
+            "width": 47.265625,
+            "height": 14,
+            "center": 23552.421875
+          }
+        ],
+        "paymentRowWidth": 158.21875,
+        "logoWidth": 175,
+        "licenses": [
+          {
+            "src": "assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": false,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          },
+          {
+            "src": "assets/footer-license.svg",
+            "width": "20px",
+            "height": "20px",
+            "naturalWidth": 20,
+            "visible": true,
+            "text": "Лицензия № 75406 от 06.04.2016",
+            "decoration": "none"
+          }
+        ]
+      }
+    ],
+    "javascriptErrors": [],
+    "rutubeBackgroundColor": "#20214f"
+  },
+  "paymentIcons": {
+    "date": "2026-10-21",
+    "style": "White logos on transparent backgrounds; original vector shapes retained",
+    "assets": [
+      "assets/footer-payment-mir.svg",
+      "assets/footer-payment-sberpay.svg",
+      "assets/footer-payment-t-pay.svg"
+    ],
+    "renderedHeightPx": 14,
+    "visibleHeightsPx": [
+      14,
+      14,
+      14
+    ],
+    "gapPx": 10,
+    "allFourPagesVerified": true,
+    "licenseIconPx": 20,
+    "javascriptErrors": []
+  }
+}

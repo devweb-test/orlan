@@ -1,0 +1,128 @@
+.footer {
+  --footer-accent: #00a0e3;
+  --footer-ink: #202439;
+  --footer-motion: 380ms;
+  --footer-ease: cubic-bezier(.22, .61, .36, 1);
+}
+
+.footer .footer__content .logo { min-width: 160px; align-items: center; }
+.footer .footer__content .logo .links { align-items: center; justify-content: center; gap: 8px; }
+.footer .footer__content .logo .links a {
+  flex: 0 0 34px;
+  width: 34px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9px;
+  transition: background-color var(--footer-motion) var(--footer-ease), transform var(--footer-motion) var(--footer-ease);
+}
+.footer .footer__content .logo .links img { display: block; width: 28px; height: 28px; object-fit: contain; }
+.footer .footer__content .logo .pay-icon { display: flex; align-items: center; justify-content: center; gap: 10px; }
+.footer .footer__content .logo .pay-icon img { display: block; flex: 0 0 auto; height: 14px; object-fit: contain; }
+
+.footer .footer__content .mobile-link-grid a { display: block; background: transparent; border: 0; border-radius: 5px; }
+/* Blend the black baked into the store badges into the footer background. */
+.footer .footer__content .mobile-link-grid img {
+  display: block;
+  width: 130px;
+  height: 38px;
+  max-width: 100%;
+  object-fit: contain;
+  mix-blend-mode: screen;
+  transition: transform var(--footer-motion) var(--footer-ease);
+}
+
+.footer .footer-block-pay-phone {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 18px;
+}
+.footer .footer-block-pay-phone .footer-action {
+  box-sizing: border-box;
+  min-width: 0;
+  min-height: 46px;
+  padding: 12px 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  font-size: 14px;
+  line-height: 1.3;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background-color var(--footer-motion) var(--footer-ease), border-color var(--footer-motion) var(--footer-ease), box-shadow var(--footer-motion) var(--footer-ease), filter var(--footer-motion) var(--footer-ease), transform var(--footer-motion) var(--footer-ease);
+}
+.footer .footer-block-pay-phone .footer-action--pay {
+  background: var(--btn-color-bg, linear-gradient(#ffec71, #ffc700));
+  color: var(--footer-ink);
+  box-shadow: 0 4px 14px #ffc70012;
+}
+.footer .footer-block-pay-phone .footer-action--phone {
+  border-color: #00a0e39c;
+  background: transparent;
+  color: var(--footer-accent);
+}
+.footer .footer-action-icon { flex: 0 0 20px; width: 20px; height: 20px; }
+
+.footer .footer__content .footer_contacts .link { margin-left: 0; margin-top: 12px; }
+.footer .footer_contacts :is(.phonefooter, .feedback)::before { content: none; }
+.footer .footer_contacts .footer-contact-link {
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  max-width: 100%;
+  min-height: 40px;
+  padding: 9px 0;
+  border-bottom: 0;
+  color: var(--footer-accent);
+  /* The original .link a helper forces a 12px font with !important. */
+  font-size: 14px !important;
+  line-height: 1.4;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color var(--footer-motion) var(--footer-ease);
+}
+.footer .footer_contacts .footer-contact-link .footer-action-icon {
+  flex-basis: 18px;
+  width: 18px;
+  height: 18px;
+  transition: transform var(--footer-motion) var(--footer-ease);
+}
+.footer .footer_contacts .footer-contact-link span { font: inherit; }
+.footer .license a,
+.footer__bottom-wrapper .footer__bottom :is(.license a, .special-link, .mibok-glaza-text, .error_footer_textform, .links .link a) { text-decoration: none; }
+.footer .license > span,
+.footer__bottom-wrapper .license > span { display: inline-flex; align-items: center; flex: 0 0 20px; width: 20px; height: 20px; }
+.footer .license img,
+.footer__bottom-wrapper .license img { display: block; width: 20px; height: 20px; object-fit: contain; }
+.footer :is(.footer-action, .footer-contact-link, .mobile-link-grid a, .logo .links a):focus-visible {
+  outline: 2px solid var(--footer-accent);
+  outline-offset: 5px;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .footer .footer__content .logo .links a:hover { background: transparent; box-shadow: none; transform: translateY(-2px); }
+  .footer .footer__content .mobile-link-grid a:hover { background: transparent; box-shadow: none; }
+  .footer .footer__content .mobile-link-grid a:hover img { transform: translateY(-2px); }
+  .footer .footer-block-pay-phone .footer-action:hover { transform: translateY(-2px); }
+  .footer .footer-block-pay-phone .footer-action--pay:hover { filter: brightness(1.045); box-shadow: 0 6px 20px #ffc70024; }
+  .footer .footer-block-pay-phone .footer-action--phone:hover { background-color: #00a0e31a; box-shadow: 0 5px 18px #00a0e314; }
+  .footer .footer_contacts .footer-contact-link:hover .footer-action-icon { transform: translateY(-2px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .footer .footer__content .logo .links a,
+  .footer .footer__content .mobile-link-grid img,
+  .footer .footer-block-pay-phone .footer-action,
+  .footer .footer_contacts .footer-contact-link,
+  .footer .footer_contacts .footer-contact-link .footer-action-icon { transition: none; }
+  .footer .footer__content .logo .links a:hover,
+  .footer .footer__content .mobile-link-grid a:hover img,
+  .footer .footer-block-pay-phone .footer-action:hover,
+  .footer .footer_contacts .footer-contact-link:hover .footer-action-icon { transform: none; }
+}

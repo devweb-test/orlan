@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-21",
+  "scope": "offline-page",
+  "video_files_removed": 2,
+  "removed_bytes": 172713073,
+  "player_modals_removed": 7,
+  "play_buttons_removed": 7,
+  "branch_static_posters": 6,
+  "review_static_covers": 6,
+  "overview_static_cover": 1,
+  "video_elements_remaining": 0,
+  "external_video_embeds_remaining": 0,
+  "video_files_remaining": 0,
+  "video_fields_removed_from_branch_data": 6,
+  "video_urls_removed_from_asset_manifest": 7,
+  "backup_directory": "/tmp/orlan-video-removal-original-ults8r71",
+  "browser_checks": {
+    "allPlayersAndPlayButtonsRemoved": true,
+    "sixBranchPostersAndSixReviewCovers": true,
+    "allStaticImagesDecode": true,
+    "reviewCoversDoNotOpenPlayers": true,
+    "branchPhotoGalleryStillWorks": true,
+    "contactModalStillWorks": true,
+    "desktopPosterLayout": {
+      "width": 545.265625,
+      "height": 306.703125,
+      "parent": 545.265625
+    },
+    "mobilePosterLayout": {
+      "hiddenByExistingResponsiveLayout": true
+    },
+    "allFourPagesWithoutPlayers": true
+  },
+  "media_requests": [],
+  "javascript_errors": []
+}

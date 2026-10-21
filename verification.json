@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-16",
+  "browser": "Chromium 156, Linux",
+  "entryPoint": "index.html",
+  "pages": 4,
+  "assetUrls": 402,
+  "uniqueAssetFiles": 489,
+  "packageBytes": 54353368,
+  "staticVerifier": {
+    "passed": true,
+    "references": 1378,
+    "htmlCssFiles": 35,
+    "portabilityWarnings": 0
+  },
+  "visualComparison": [
+    {
+      "page": "index.html",
+      "desktopViewport": 1440,
+      "desktopSourceHeight": 23622,
+      "desktopLocalHeight": 23622,
+      "mobileViewport": 390,
+      "mobileSourceHeight": 18097,
+      "mobileLocalHeight": 18097,
+      "javascriptErrors": [],
+      "missingLocalResources": [],
+      "undecodedImages": []
+    },
+    {
+      "page": "blog/index.html",
+      "desktopViewport": 1440,
+      "desktopSourceHeight": 5782,
+      "desktopLocalHeight": 5782,
+      "mobileViewport": 390,
+      "mobileSourceHeight": 12495,
+      "mobileLocalHeight": 12495,
+      "javascriptErrors": [],
+      "missingLocalResources": [],
+      "undecodedImages": []
+    },
+    {
+      "page": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "desktopViewport": 1440,
+      "desktopSourceHeight": 9463,
+      "desktopLocalHeight": 9463,
+      "mobileViewport": 390,
+      "mobileSourceHeight": 11603,
+      "mobileLocalHeight": 11603,
+      "javascriptErrors": [],
+      "missingLocalResources": [],
+      "undecodedImages": []
+    },
+    {
+      "page": "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "desktopViewport": 1440,
+      "desktopSourceHeight": 12269,
+      "desktopLocalHeight": 12269,
+      "mobileViewport": 390,
+      "mobileSourceHeight": 15374,
+      "mobileLocalHeight": 15374,
+      "javascriptErrors": [],
+      "missingLocalResources": [],
+      "undecodedImages": []
+    }
+  ],
+  "interactions": {
+    "cookieDismiss": true,
+    "quizStep": "ВОПРОС 2\nГде вы собираетесь учиться?\nЭлектросталь\nНогинск\nСтарая Купавна\nЭлектроугли\nСергиев Посад\nХотьково\nПересвет\nЩелково\nФрязино\nпос. Чкаловский\nпос. Свердловский\nг. Лосино-Петровский\nпос. Монино\nПавловский Посад\nВыберите ответ, чтобы продолжить.\nНазад\nСледующий шаг",
+    "quizNextWorks": true,
+    "quizBackWorks": true,
+    "callbackOfflineNotice": true,
+    "blogToArticle1": true,
+    "article1ToBlog": true,
+    "blogToArticle2": true,
+    "article2ToHome": true,
+    "mobileMenuOpen": true,
+    "mobileMenuClose": true,
+    "photoSliderLaterPosition": true,
+    "faqExpanded": true,
+    "localBlogSearch": true,
+    "errors": [],
+    "staticMediaOnly": true
+  },
+  "maps": {
+    "online": {
+      "w": 1176,
+      "h": 620,
+      "live": true,
+      "zoom": 11,
+      "markers": 6,
+      "fallback": false,
+      "tiles": 28
+    },
+    "zoomControlWorks": true,
+    "offlineDesktop": {
+      "w": 1176,
+      "h": 620,
+      "live": false,
+      "zoom": null,
+      "markers": null,
+      "fallback": true,
+      "tiles": 0
+    },
+    "offlineMobile": {
+      "w": 0,
+      "h": 0,
+      "live": false,
+      "zoom": null,
+      "markers": null,
+      "fallback": true,
+      "tiles": 0
+    },
+    "reconnectedDesktop": {
+      "w": 1176,
+      "h": 620,
+      "live": true,
+      "zoom": 11,
+      "markers": 6,
+      "fallback": false,
+      "tiles": 28
+    },
+    "errors": []
+  },
+  "relocationWithSpacesAndCyrillic": [
+    {
+      "width": 768,
+      "scrollWidth": 1191,
+      "badImages": [],
+      "path": "index.html",
+      "errors": [],
+      "failedLocal": []
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "badImages": [],
+      "path": "blog/index.html",
+      "errors": [],
+      "failedLocal": []
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "badImages": [],
+      "path": "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "errors": [],
+      "failedLocal": []
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "badImages": [],
+      "path": "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "errors": [],
+      "failedLocal": []
+    }
+  ],
+  "fontCoverage": [
+    {
+      "family": "'Montserrat'",
+      "file": "JTUQjIg1_i6t8kCHKm459WxRzS7mw9c-24b699a0097d.woff2",
+      "cyrillic": true
+    },
+    {
+      "family": "'Montserrat'",
+      "file": "JTUSjIg1_i6t8kCHKm459W1hyzbi-d786a4e09dec.woff2",
+      "cyrillic": true
+    },
+    {
+      "family": "'Ubuntu'",
+      "file": "4iCp6KVjbNBYlgoKejZftVyLN4Ffgg-71db57d2f40b.woff2",
+      "cyrillic": true
+    },
+    {
+      "family": "'Ubuntu'",
+      "file": "4iCu6KVjbNBYlgoKej7wl0mwFg-71d73d150f9a.woff2",
+      "cyrillic": true
+    },
+    {
+      "family": "'Ubuntu'",
+      "file": "4iCp6KVjbNBYlgoKejYHtFyLN4Ffgg-b41ceb9c7bbe.woff2",
+      "cyrillic": true
+    },
+    {
+      "family": "'Ubuntu'",
+      "file": "4iCp6KVjbNBYlgoKejZPslyLN4Ffgg-b94a331fbdf9.woff2",
+      "cyrillic": true
+    },
+    {
+      "family": "'Ubuntu'",
+      "file": "4iCv6KVjbNBYlgoC1CzjtGyNL4U-8a1466039a6e.woff2",
+      "cyrillic": true
+    },
+    {
+      "family": "'Ubuntu'",
+      "file": "4iCs6KVjbNBYlgoKew72j00-625786bdced4.woff2",
+      "cyrillic": true
+    },
+    {
+      "family": "'Ubuntu'",
+      "file": "4iCv6KVjbNBYlgoCjC3jtGyNL4U-8aa8c96579d7.woff2",
+      "cyrillic": true
+    },
+    {
+      "family": "'Ubuntu'",
+      "file": "4iCv6KVjbNBYlgoCxCvjtGyNL4U-6dde8dc71a5e.woff2",
+      "cyrillic": true
+    }
+  ],
+  "upstreamUnavailableOmitted": {
+    "https://xn----7sbabh2chctdbd0au5g.xn--p1ai/local/templates/main/components/bitrix/news/blog/bitrix/news.detail/new/js/scripts.js": "404 Client Error: Not Found for url: https://xn----7sbabh2chctdbd0au5g.xn--p1ai/local/templates/main/components/bitrix/news/blog/bitrix/news.detail/new/js/scripts.js"
+  },
+  "limitations": [
+    "Windows opening/extraction was not tested.",
+    "The homepage retains the source website horizontal overflow at 768px (scroll width 1191px); the three blog pages have scroll width 768px.",
+    "The main branch map is hidden on mobile by the original responsive styles.",
+    "Forms and payment do not submit data; server functions require the original website.",
+    "Video players are replaced by static posters; the external reviews widget is a static snapshot with an online link.",
+    "Chromium cancels some progressive MP4 preload requests with ERR_ABORTED; both distinct local videos were separately played successfully."
+  ],
+  "lastUpdated": "2026-10-21",
+  "media": {
+    "date": "2026-10-21",
+    "scope": "offline-page",
+    "video_files_removed": 2,
+    "removed_bytes": 172713073,
+    "player_modals_removed": 7,
+    "play_buttons_removed": 7,
+    "branch_static_posters": 6,
+    "review_static_covers": 6,
+    "overview_static_cover": 1,
+    "video_elements_remaining": 0,
+    "external_video_embeds_remaining": 0,
+    "video_files_remaining": 0,
+    "video_fields_removed_from_branch_data": 6,
+    "video_urls_removed_from_asset_manifest": 7,
+    "backup_directory": "/tmp/orlan-video-removal-original-ults8r71",
+    "browser_checks": {
+      "allPlayersAndPlayButtonsRemoved": true,
+      "sixBranchPostersAndSixReviewCovers": true,
+      "allStaticImagesDecode": true,
+      "reviewCoversDoNotOpenPlayers": true,
+      "branchPhotoGalleryStillWorks": true,
+      "contactModalStillWorks": true,
+      "desktopPosterLayout": {
+        "width": 545.265625,
+        "height": 306.703125,
+        "parent": 545.265625
+      },
+      "mobilePosterLayout": {
+        "hiddenByExistingResponsiveLayout": true
+      },
+      "allFourPagesWithoutPlayers": true
+    },
+    "media_requests": [],
+    "javascript_errors": []
+  },
+  "footer": {
+    "passed": true,
+    "report": "footer-verification.json",
+    "pagesChecked": 4,
+    "responsiveChecks": 28,
+    "modalChecks": 12,
+    "javascriptErrors": [],
+    "latestRefinementsVerified": true,
+    "latestIconsVerified": true,
+    "licenseIconPx": 20,
+    "paymentIconsUnified": true
+  },
+  "robotsMeta": {
+    "content": "noindex, nofollow",
+    "allPagesVerified": true,
+    "pages": [
+      "blog/dorozhnyy-znak-1-8-svetofornoe-regulirovanie/index.html",
+      "blog/index.html",
+      "blog/znaki-prioriteta-na-dorogakh/index.html",
+      "index.html"
+    ]
+  }
+}
