@@ -1,0 +1,1 @@
+window.ymaps={ready:function(callback){window.offlineYandexReady(callback);}};window.offlineLoadYandex();
