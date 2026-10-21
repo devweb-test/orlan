@@ -1,0 +1,28 @@
+<svg width="115.000000" height="115.000000" viewBox="0 0 115 115" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip877_12553">
+			<rect id="taxi 1" width="115.000000" height="115.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="taxi 1" width="115.000000" height="115.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip877_12553)">
+		<circle id="Ellipse 10" cx="22.000000" cy="68.000000" r="22.000000" fill="#00A0E3" fill-opacity="1.000000"/>
+		<mask id="mask877_12558" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="115.000000" height="115.000000">
+			<path id="path21" d="M0 0L115 0L115 115L0 115L0 0Z" fill="#000000" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</mask>
+		<g mask="url(#mask877_12558)">
+			<path id="path27" d="M30.5469 30.5469L17.6016 30.5469C14.8594 30.5469 12.4766 32.4507 11.875 35.1304L2.39062 77.2913C1.5625 80.9629 4.35156 84.4531 8.11719 84.4531L106.875 84.4531C110.641 84.4531 113.43 80.9629 112.602 77.2913L103.117 35.1304C102.516 32.4507 100.133 30.5469 97.3906 30.5469L49.1875 30.5469" stroke="#000000" stroke-opacity="1.000000" stroke-width="4.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path35" d="M28.8359 66.353L28.8359 48.0664" stroke="#000000" stroke-opacity="1.000000" stroke-width="4.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path39" d="M91.8906 66.353L91.8906 48.0664" stroke="#000000" stroke-opacity="1.000000" stroke-width="4.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path43" d="M22.2578 48.0664L35.4141 48.0664" stroke="#000000" stroke-opacity="1.000000" stroke-width="4.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path47" d="M80.7891 48.0664L67.1719 66.9336" stroke="#000000" stroke-opacity="1.000000" stroke-width="4.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path51" d="M67.1719 48.0664L80.7891 66.9336" stroke="#000000" stroke-opacity="1.000000" stroke-width="4.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path55" d="M57.5234 66.9336L49.9453 48.0664L42.375 66.9336" stroke="#000000" stroke-opacity="1.000000" stroke-width="4.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path59" d="M44.5547 61.5093L55.3438 61.5093" stroke="#000000" stroke-opacity="1.000000" stroke-width="4.000000" stroke-linejoin="round" stroke-linecap="round"/>
+			<path id="path63" d="M111.57 75.4688L95.9062 75.4688" stroke="#000000" stroke-opacity="1.000000" stroke-width="4.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		</g>
+	</g>
+</svg>
