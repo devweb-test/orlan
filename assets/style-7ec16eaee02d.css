@@ -1,0 +1,171 @@
+.map-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.map-overlay__text {
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+}
+
+.map-overlay.show {
+    opacity: 1;
+}
+
+
+.filial_ob{
+	box-shadow: -2px 0 10px rgba(0, 0, 0, 0.1);
+	border-radius: 20px;
+    padding: 20px;
+	margin-bottom:40px;
+}
+.filial-block-contact{
+	display:flex;
+	flex-wrap:wrap;	
+	justify-content: space-between;
+	margin-bottom:20px;
+    margin-top: 20px;
+}
+.filial-block-contact .left{
+	width:30%;
+}
+.filial-block-contact .right{
+	width:65%;
+}
+
+.filial-block-photo {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-start; /* важно: НЕ stretch */
+}
+
+.filial-block-photo .left {
+	width: 50%;
+}
+
+.filial-block-photo .right {
+	width: 48%;
+	overflow: hidden;
+}
+
+.filial-block-photo .left img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.wrapper .content .img-mob {
+	width: 568px;
+	max-width: 100%;
+	height: 400px;
+	overflow: hidden;
+}
+
+.wrapper .content .img-mob a {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+.wrapper .content .img-mob img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+@media (max-width: 767px) {
+	.wrapper .content .img-mob {
+		width: 100%;
+		height: auto;
+		overflow: visible;
+	}
+
+	.wrapper .content .img-mob a {
+		height: auto;
+	}
+
+	.wrapper .content .img-mob img {
+		height: auto;
+		object-fit: initial;
+	}
+}
+
+.filial-block-photo .right video {
+	display: block;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+/*
+.filial-block-photo .right {
+	width: 48%;
+	aspect-ratio: 16 / 9;
+}
+
+.filial-block-photo .right video {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+*/
+
+
+
+.filial-block-photo img{
+	margin-bottom:0px !important;
+}
+#addresses{
+	margin-top:30px;
+}
+
+.links__item.addres::before {
+    content: url("data:image/svg+xml,%3Csvg width='18.000000' height='18.000000' viewBox='0 0 18 18' fill='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdesc%3E Created with Pixso. %3C/desc%3E%3Cdefs%3E%3CclipPath id='clip877_13241'%3E%3Crect id='pin (13) 13' width='18.000000' height='18.000000' fill='white' fill-opacity='0'/%3E%3C/clipPath%3E%3C/defs%3E%3Crect id='pin (13) 13' width='18.000000' height='18.000000' fill='%23FFFFFF' fill-opacity='0'/%3E%3Cg clip-path='url(%23clip877_13241)'%3E%3Cpath id='Vector' d='M9 0C7.21094 0.00195312 5.49219 0.713867 4.22656 1.97949C2.96094 3.24512 2.25 4.96094 2.25 6.75C2.25 11.5957 8.53906 17.665 8.80469 17.9209C8.85938 17.9717 8.92969 18 9 18C9.07031 18 9.14062 17.9717 9.19531 17.9209C9.46094 17.665 15.75 11.5957 15.75 6.75C15.75 4.96094 15.0391 3.24512 13.7734 1.97949C12.5078 0.713867 10.7891 0.00195312 9 0ZM9 9.84375C8.39062 9.84375 7.78906 9.66211 7.28125 9.32227C6.77344 8.98242 6.375 8.49902 6.14062 7.93359C5.90625 7.36816 5.84375 6.74609 5.96875 6.14648C6.08594 5.5459 6.38281 4.99512 6.8125 4.5625C7.24219 4.12988 7.79688 3.83496 8.39844 3.71582C9 3.59668 9.61719 3.65723 10.1875 3.8916C10.75 4.12598 11.2344 4.52246 11.5703 5.03125C11.9141 5.54004 12.0938 6.1377 12.0938 6.75C12.0938 7.57031 11.7656 8.35742 11.1875 8.9375C10.6094 9.51758 9.82031 9.84277 9 9.84375Z' fill='%23009FE3' fill-opacity='1.000000' fill-rule='nonzero'/%3E%3C/g%3E%3C/svg%3E%0A");
+	position: absolute;
+    left: 0;
+    top: 5px;
+}
+.links__item.tel::before {
+  content: url("data:image/svg+xml,%3Csvg width='18.000000' height='18.000000' viewBox='0 0 18 18' fill='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdesc%3E Created with Pixso. %3C/desc%3E%3Cdefs%3E%3CclipPath id='clip877_13246'%3E%3Crect id='telephone-call (9) 2' width='18.000000' height='18.000000' fill='white' fill-opacity='0'/%3E%3C/clipPath%3E%3C/defs%3E%3Crect id='telephone-call (9) 2' width='18.000000' height='18.000000' fill='%23FFFFFF' fill-opacity='0'/%3E%3Cg clip-path='url(%23clip877_13246)'%3E%3Cpath id='Vector' d='M0.492188 7.63574C0.171875 6.77637 -0.0546875 5.89941 0.015625 4.96777C0.0546875 4.39355 0.273438 3.90332 0.695312 3.50195C1.14844 3.07031 1.57812 2.61719 2.03125 2.17871C2.61719 1.60059 3.35156 1.60449 3.9375 2.17871C4.29688 2.5332 4.65625 2.89453 5.01562 3.25684C5.35938 3.60352 5.71094 3.95117 6.05469 4.30176C6.67188 4.91992 6.67188 5.63965 6.0625 6.25391C5.625 6.69238 5.1875 7.13477 4.74219 7.56641C4.625 7.67969 4.61719 7.77441 4.67969 7.91699C4.96875 8.61914 5.39062 9.24414 5.86719 9.8291C6.82812 11.0059 7.90625 12.0508 9.19531 12.8584C9.47656 13.0303 9.78125 13.1582 10.0703 13.3154C10.2188 13.3965 10.3125 13.3701 10.4375 13.2461C10.875 12.7969 11.3203 12.3545 11.7656 11.9121C12.3516 11.335 13.0781 11.3311 13.6641 11.9121C14.3828 12.6211 15.0938 13.334 15.8047 14.0508C16.3984 14.6494 16.3984 15.3848 15.7969 15.9873C15.3906 16.3975 14.9609 16.7842 14.5781 17.2119C14.0234 17.833 13.3281 18.0381 12.5312 17.9941C11.3672 17.9326 10.2969 17.5449 9.25781 17.0439C6.96094 15.9287 5.00781 14.3828 3.36719 12.4316C2.14844 10.9834 1.14844 9.41211 0.492188 7.63574ZM18 8.94434C18 4.01367 13.9844 0 9.05469 0L9.05469 1.70312C13.0469 1.70312 16.2969 4.95312 16.2969 8.94434L18 8.94434ZM13.1016 8.94434L14.8047 8.94434C14.8047 5.77539 12.2266 3.19434 9.05469 3.19434L9.05469 4.89746C10.1406 4.89746 11.1562 5.31836 11.9141 6.08203C12.6797 6.8457 13.1016 7.8623 13.1016 8.94434Z' fill='%23009FE3' fill-opacity='1.000000' fill-rule='nonzero'/%3E%3C/g%3E%3C/svg%3E%0A");
+  position: absolute;
+  left: 0;
+  top: 5px;
+}
+.links__item.time::before {
+  content: url("data:image/svg+xml,%3Csvg width='18.000000' height='18.000000' viewBox='0 0 18 18' fill='none' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Cdesc%3E Created with Pixso. %3C/desc%3E%3Cdefs%3E%3CclipPath id='clip877_13249'%3E%3Crect id='clock (4) 1' width='18.000000' height='18.000000' fill='white' fill-opacity='0'/%3E%3C/clipPath%3E%3C/defs%3E%3Crect id='clock (4) 1' width='18.000000' height='18.000000' fill='%23FFFFFF' fill-opacity='0'/%3E%3Cg clip-path='url(%23clip877_13249)'%3E%3Cpath id='Vector' d='M9 0C4.03906 0 0 4.03711 0 9C0 13.9629 4.03906 18 9 18C13.9609 18 18 13.9629 18 9C18 4.03711 13.9609 0 9 0ZM13.2812 13.6553C13.1328 13.8018 12.9453 13.875 12.75 13.875C12.5547 13.875 12.3672 13.8018 12.2188 13.6553L8.46875 9.90527C8.32812 9.76465 8.25 9.57422 8.25 9.375L8.25 4.5C8.25 4.08496 8.58594 3.75 9 3.75C9.41406 3.75 9.75 4.08496 9.75 4.5L9.75 9.06445L13.2812 12.5947C13.5703 12.8877 13.5703 13.3623 13.2812 13.6553Z' fill='%23009FE3' fill-opacity='1.000000' fill-rule='nonzero'/%3E%3C/g%3E%3C/svg%3E%0A");
+  position: absolute;
+  left: 0;
+  top: 5px;
+}
+.links__item{
+	padding-left: 28px;
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+	position:relative;
+	margin-bottom:20px;
+}
+.links .button a {
+    color: #2b2b2b;
+	font-weight: 600 !important;
+    font-size: 14px;
+}
+.contact_page{
+	margin-top:10px;
+}
+#contact-page-city-selector{
+	scroll-margin-top: 190px;
+}

@@ -1,0 +1,96 @@
+.select-region-footer{
+    position: absolute;
+    top: 30px;
+    left: -190px;
+    height: 225px;
+    width: 360px;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 0px 13px 23.4px 0px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+    z-index: 99;
+    border: 1px solid #c9c9c9;
+}
+.select-region-footer:after{
+    position: absolute;
+    top: -7px;
+    left: 230px;
+    content: "";
+    display: block;
+    border: 1px solid #c9c9c9;
+    width: 12px;
+    height: 12px;
+    background: #ffffff;
+    border-left: none;
+    border-bottom: none;
+    transform: rotate(-45deg);
+}
+.select-region-footer__list{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    overflow-y: auto;
+    /* max-height: 300px; */
+}
+.select-region-footer__item{
+
+}
+.select-region-footer__item a{
+    color: rgb(42, 42, 42);
+}
+.select-region-footer__item a:hover{
+    text-decoration: underline;
+}
+.js-choose-region-footer{
+    cursor: pointer;
+}
+/* Стиль для фонового затемнения */
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 990;
+}
+
+/* Стиль для окна */
+.popup-content {
+    background-color: #fff;
+    padding: 20px;
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 10px;
+    position: relative;
+    z-index: 101;
+}
+.popup-content .h3{
+    font-weight: 700;
+}
+/* Стиль для закрытия окна */
+.popup-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    line-height: 20px;
+    font-size: 24px;
+    cursor: pointer;
+    transition: color .3s;
+}
+.popup-close:hover{
+    color: red;
+}
+@media (max-width: 1024px) {
+    .select-region-footer{
+        /*width: 210px;*/
+        /*left: -40px;*/
+        height: 180px;
+    }
+    /*.select-region-footer:after{*/
+    /*    left: 75px;*/
+    /*}*/
+}

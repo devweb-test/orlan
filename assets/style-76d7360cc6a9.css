@@ -1,0 +1,6 @@
+.wrapper .content img.news-page__img{
+    border-radius: 5px;
+    height: 250px;
+    object-fit: cover;
+    width: 100%;
+}
