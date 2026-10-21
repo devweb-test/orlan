@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-20",
+  "network": "HTTP(S) blocked",
+  "checks": {
+    "cardTitlesWithoutHeadingTags": true,
+    "noTopicCounts": true,
+    "noDuplicateCategoryLabels": true,
+    "instructorBlockRemoved": true,
+    "originalLicenseBlockRestoredExactly": true,
+    "originalBranchesBlockRestoredExactly": true,
+    "catalogueAndLoadMore": true,
+    "allEightFilters": true,
+    "searchAndLocalArticleRoundTrip": true,
+    "emptyStateAndReset": true,
+    "sorting": true,
+    "topicsAndCollectionsNavigation": true,
+    "faqAccordion": true,
+    "originalLicenseSliderAndViewer": true,
+    "originalMapOfflineFallback": true,
+    "originalBranchSelector": true,
+    "responsiveAndEnlargedTypography": [
+      {
+        "width": 320,
+        "document": 320,
+        "blog": 320,
+        "fonts": {
+          "topic": 16,
+          "icon": 32,
+          "featuredTitle": 19,
+          "featuredDescription": 14,
+          "collection": 17,
+          "question": 18,
+          "answer": 16
+        }
+      },
+      {
+        "width": 390,
+        "document": 390,
+        "blog": 390,
+        "fonts": {
+          "topic": 16,
+          "icon": 32,
+          "featuredTitle": 19,
+          "featuredDescription": 14,
+          "collection": 17,
+          "question": 18,
+          "answer": 16
+        }
+      },
+      {
+        "width": 650,
+        "document": 650,
+        "blog": 650,
+        "fonts": {
+          "topic": 16,
+          "icon": 32,
+          "featuredTitle": 19,
+          "featuredDescription": 14,
+          "collection": 17,
+          "question": 18,
+          "answer": 16
+        }
+      },
+      {
+        "width": 768,
+        "document": 768,
+        "blog": 768,
+        "fonts": {
+          "topic": 16,
+          "icon": 32,
+          "featuredTitle": 19,
+          "featuredDescription": 14,
+          "collection": 17,
+          "question": 18,
+          "answer": 16
+        }
+      },
+      {
+        "width": 1024,
+        "document": 1024,
+        "blog": 1024,
+        "fonts": {
+          "topic": 16,
+          "icon": 32,
+          "featuredTitle": 19,
+          "featuredDescription": 14,
+          "collection": 17,
+          "question": 18,
+          "answer": 16
+        }
+      },
+      {
+        "width": 1440,
+        "document": 1440,
+        "blog": 1440,
+        "fonts": {
+          "topic": 16,
+          "icon": 32,
+          "featuredTitle": 19,
+          "featuredDescription": 14,
+          "collection": 17,
+          "question": 18,
+          "answer": 16
+        }
+      },
+      {
+        "width": 1920,
+        "document": 1920,
+        "blog": 1920,
+        "fonts": {
+          "topic": 16,
+          "icon": 32,
+          "featuredTitle": 19,
+          "featuredDescription": 14,
+          "collection": 17,
+          "question": 18,
+          "answer": 16
+        }
+      }
+    ],
+    "smoothHover": {
+      "cardTransitionInterpolates": true,
+      "imageZoomInterpolates": true,
+      "hoverOutReturnsSmoothly": true,
+      "yellowGradientPreserved": true,
+      "topicHover": true,
+      "reducedMotionRespected": true,
+      "touchHoverDisabled": true,
+      "mobileHasNoHorizontalOverflow": true,
+      "javascriptErrors": []
+    },
+    "primaryButtonStyleMatches": {
+      "reference": {
+        "background": "linear-gradient(rgb(255, 236, 113), rgb(255, 199, 0) 100%)",
+        "border": "0px",
+        "weight": "700",
+        "color": "rgb(32, 36, 57)",
+        "radius": "7px"
+      },
+      "allMaterials": {
+        "background": "linear-gradient(rgb(255, 236, 113), rgb(255, 199, 0) 100%)",
+        "border": "0px",
+        "weight": "700",
+        "color": "rgb(32, 36, 57)",
+        "radius": "7px"
+      },
+      "more": {
+        "background": "linear-gradient(rgb(255, 236, 113), rgb(255, 199, 0) 100%)",
+        "border": "0px",
+        "weight": "700",
+        "color": "rgb(32, 36, 57)",
+        "radius": "7px"
+      }
+    },
+    "uniformBlueAccent": {
+      "color": "#00a0e3",
+      "renderedAccentMismatches": {},
+      "hoverAccentMatches": true,
+      "originalBranchDropdownMatches": true
+    },
+    "primaryLoadMoreStillWorks": true,
+    "requestedImageCompression": {
+      "verified_at": "2026-10-21",
+      "files": 62,
+      "limit_bytes": 400000,
+      "max_output_bytes": 399767,
+      "all_images_decode_in_browser": true,
+      "svg_transparency_preserved": true
+    },
+    "latestBlogTypographyAndCounts": {
+      "faqAnswerFontPx": 16,
+      "allCardDescriptionFontPx": 14,
+      "allCardTagColor": "#202439",
+      "catalogueCountRemoved": true,
+      "loadMoreCountRemoved": true,
+      "resetRowHiddenWhenUnused": true,
+      "loadMoreFiltersSearchSortingAndReset": true,
+      "cardCountVerified": 93,
+      "widthsChecked": [
+        320,
+        390,
+        650,
+        768,
+        1024,
+        1440,
+        1920
+      ],
+      "javascriptErrors": []
+    },
+    "footerRedesign": {
+      "passed": true,
+      "report": "../footer-verification.json",
+      "latestRefinementsVerified": true,
+      "latestIconsVerified": true,
+      "paymentIconsUnified": true,
+      "licenseIconPx": 20
+    }
+  },
+  "javascriptErrors": [],
+  "lastUpdated": "2026-10-21"
+}
