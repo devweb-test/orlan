@@ -1,0 +1,23 @@
+<svg width="1805.898438" height="908.900391" viewBox="0 0 1805.9 908.9" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_877_13301_dd" x="0.000000" y="0.000000" width="718.203125" height="718.199219" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="46.5333" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_877_13302_dd" x="1066.304688" y="169.299805" width="739.593750" height="739.600586" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="41.4333" result="effect_layerBlur_1"/>
+		</filter>
+	</defs>
+	<g opacity="0.200000" filter="url(#filter_877_13301_dd)">
+		<circle id="Ellipse 3" cx="359.101562" cy="359.099609" r="219.500000" fill="#BDEBFF" fill-opacity="1.000000"/>
+	</g>
+	<g opacity="0.100000" filter="url(#filter_877_13302_dd)">
+		<circle id="Ellipse 4" cx="1436.101562" cy="539.099609" r="245.500000" fill="#FF767A" fill-opacity="1.000000"/>
+	</g>
+</svg>
